@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Ahmed EL-Qori</h1>
+<h1 align="center" style="color:red">Hi 👋, I'm Ahmed EL-Qori</h1>
