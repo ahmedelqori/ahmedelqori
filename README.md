@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed EL-Qori</h1>
-<p align="center">
+
 <img  src="https://github-readme-stats.vercel.app/api?username=ahmedelqori&show_icons=true&theme=dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelqori&layout=compact">
+<p align="center">
 <img  src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg">
 </p>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
