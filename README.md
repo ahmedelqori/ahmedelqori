@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed EL-Qori</h1>
-<p diplay=flex justify-content="space-between" align-items="center">
+<p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=ahmedelqori&show_icons=true&theme=dark"/>
-
+</p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelqori&layout=compact">
 </p>
 <p align="center">
