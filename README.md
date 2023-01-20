@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed EL-Qori</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedelqori&show_icons=true&theme=dark"/>
 <img margin="center" src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg">
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
