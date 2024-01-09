@@ -3,3 +3,5 @@
 <div align="center">
 <a  href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/ael-qori" alt="ael-qori's 42 stats" /></a>
 </div>
+<h2>Leetcode:  </h2>
+<a><img src="https://badges.peiyuan.ch/leetcode/meedivo/name"><img src="https://badges.peiyuan.ch/leetcode/meedivo/solved?difficulty=<all>"></a>
