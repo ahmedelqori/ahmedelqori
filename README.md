@@ -49,21 +49,21 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="prisma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" />
+  <img src="https://skillicons.dev/icons?i=redis"  height="30" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" />
+  <img src="https://skillicons.dev/icons?i=threejs"  height="30" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" />
+  <img src="https://skillicons.dev/icons?i=vue"  height="30" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wasm" />
+  <img src="https://skillicons.dev/icons?i=wasm"  height="30" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=figma"  height="30" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=d3" />
+  <img src="https://skillicons.dev/icons?i=d3"  height="30" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" />
+  <img src="https://skillicons.dev/icons?i=vim"  height="30" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=emacs" />
+  <img src="https://skillicons.dev/icons?i=emacs"  height="30" />
 </div>
 
 
