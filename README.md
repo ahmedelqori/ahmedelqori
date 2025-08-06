@@ -48,6 +48,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="prisma logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis,threejs,vue,wasm,figma,d3,vim,emacs," />
 </div>
 
