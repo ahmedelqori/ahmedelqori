@@ -49,7 +49,21 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="prisma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis,threejs,vue,wasm,figma,d3,vim,emacs," />
+  <img src="https://skillicons.dev/icons?i=redis" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wasm" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=d3" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=emacs" />
 </div>
 
 
