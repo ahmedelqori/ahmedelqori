@@ -66,6 +66,9 @@
   <img src="https://skillicons.dev/icons?i=emacs"  height="30" />
 </div>
 
+<p >
+<div href="#-my-github-stats--"><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3manuel0&layout=compact&theme=dark&title_color=FFC300&text_color=CDD6F4&bg_color=090D13&border_radius=5&langs_count=10&card_width=610" /></div>
+</p>
 
 
 
